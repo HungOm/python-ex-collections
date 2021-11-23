@@ -1,0 +1,2 @@
+execve("./qwilab.py", ["./qwilab.py"], 0x7ffda506c520 /* 36 vars */) = -1 ENOEXEC (Exec format error)
++++ exited with 1 +++
